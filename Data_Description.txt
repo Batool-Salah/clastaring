@@ -1,0 +1,8 @@
+Trx_Rank  --> The number of transaction of this user with this merchant
+Points  --> The Number of points redeemed in this transaction
+Trx_Vlu  --> the equivalent values in pound to the redeemed points
+Trx_Age  --> how many days this transaction was done
+Customer_Age  --> the number of days from which the user made his last transaction ever
+Category In English  --> the category of the merchant
+User_Id  
+Mer_Id
